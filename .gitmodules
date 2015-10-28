@@ -1,0 +1,3 @@
+[submodule "KBS1"]
+	path = KBS1
+	url = https://github.com/ICTSE1b5/KBS1.git
