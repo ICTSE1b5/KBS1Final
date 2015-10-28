@@ -1,0 +1,10 @@
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\KBS1Tests.dll
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\KBS1Tests.pdb
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\KBS1.exe
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\KBS1.pdb
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\obj\Release\KBS1Tests.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\obj\Release\KBS1Tests.dll
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\obj\Release\KBS1Tests.pdb
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\Interop.WMPLib.dll
+C:\Users\Robin\Documents\HBO\C-Sharp\KBS1\KBS1Tests\bin\Release\AxInterop.WMPLib.dll
